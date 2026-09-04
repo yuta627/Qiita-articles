@@ -1,13 +1,15 @@
 ---
-title: "【超初心者向け】最高の教材「IBM Quantum Learning」で始める量子情報 #1-3 古典情報の基礎"
+title: '【超初心者向け】最高の教材「IBM Quantum Learning」で始める量子情報 #1-3 古典情報の基礎'
 tags:
   - Qiita
 private: false
-updated_at: ""
-id: ""
-organization_url_name: ""
+updated_at: '2026-09-04T16:25:26+09:00'
+id: ffc499ba309e63935808
+organization_url_name: null
 slide: false
 ignorePublish: false
+posting_campaign_uuid: null
+agreed_posting_campaign_term: false
 ---
 # 本連載について
 IBM Quantum Learning で学んだことを日本語でわかりやすくまとめて連載しています。詳しくはこちら⇨[【超初心者向け】最高の教材「IBM Quantum Learning」で始める量子情報 #0 はじめに](https://qiita.com/yutaki0702/items/30549cc80b4b2a515c59)

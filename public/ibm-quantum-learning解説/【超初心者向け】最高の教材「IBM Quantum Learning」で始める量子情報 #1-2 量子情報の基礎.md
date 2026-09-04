@@ -7,11 +7,13 @@ tags:
   - QISKIT
   - 量子情報
 private: false
-updated_at: ""
+updated_at: '2026-09-04T16:25:26+09:00'
 id: 0eb929817624292890ec
 organization_url_name: null
 slide: false
 ignorePublish: false
+posting_campaign_uuid: null
+agreed_posting_campaign_term: false
 ---
 # 本連載について
 IBM Quantum Learning で学んだことを日本語でわかりやすくまとめて連載しています。詳しくはこちら⇨[【超初心者向け】最高の教材「IBM Quantum Learning」で始める量子情報 #1-1 古典情報の基礎](https://qiita.com/yutaki0702/items/c7a2e5cb1320dc29a54f)
