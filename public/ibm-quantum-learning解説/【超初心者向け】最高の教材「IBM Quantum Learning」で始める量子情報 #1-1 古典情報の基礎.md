@@ -12,6 +12,8 @@ id: c7a2e5cb1320dc29a54f
 organization_url_name: null
 slide: false
 ignorePublish: false
+posting_campaign_uuid: null
+agreed_posting_campaign_term: false
 ---
 # 本連載について
 IBM Quantum Learning で学んだことを日本語でわかりやすくまとめて連載しています。詳しくはこちら⇨[【超初心者向け】最高の教材「IBM Quantum Learning」で始める量子情報 #0 はじめに](https://qiita.com/yutaki0702/items/30549cc80b4b2a515c59)
