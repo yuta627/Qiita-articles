@@ -7,7 +7,7 @@ tags:
   - QISKIT
   - 量子情報
 private: false
-updated_at: '2026-05-01T15:41:25+09:00'
+updated_at: ""
 id: 0eb929817624292890ec
 organization_url_name: null
 slide: false

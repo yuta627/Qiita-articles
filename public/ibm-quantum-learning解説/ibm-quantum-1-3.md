@@ -1,8 +1,13 @@
 ---
-title: 【超初心者向け】最高の教材「IBM Quantum Learning」で始める量子情報 #1-2 複数の系の古典情報とテンソル積
-tags: 初心者 量子コンピュータ IBM QISKIT 量子情報
-author: yutaki0702
+title: "【超初心者向け】最高の教材「IBM Quantum Learning」で始める量子情報 #1-3 古典情報の基礎"
+tags:
+  - Qiita
+private: false
+updated_at: ""
+id: ""
+organization_url_name: ""
 slide: false
+ignorePublish: false
 ---
 # 本連載について
 IBM Quantum Learning で学んだことを日本語でわかりやすくまとめて連載しています。詳しくはこちら⇨[【超初心者向け】最高の教材「IBM Quantum Learning」で始める量子情報 #0 はじめに](https://qiita.com/yutaki0702/items/30549cc80b4b2a515c59)
